@@ -1,0 +1,24 @@
+#+TITLE: misc | alex bellon
+#+OPTIONS: title:nil
+
+#+HTML: <div id="misc" class="main">
+#+HTML: <div class="contentBlock">
+
+** *things i've made*
+
+- highlights
+  - [[[./brain][brain]]] - the contents of my brain, in digital form
+  - [[[https://github.com/alex-bellon/til][til]]] - collection of things that i learned (roughly) today
+  - [[[./wikipedia][wikipedia]]] - a /categorized/ collection of 1000+ interesting/weird wikipedia articles
+- [[[./art][art]]]
+- [[[./photography][photography]]]
+- [[[https://github.com/alex-bellon/learning][learning]]] - notes and work from self-studying textbooks and [[https://en.wikipedia.org/wiki/Massive_open_online_course][mooc]]s
+- [[[https://github.com/alex-bellon/questions][questions]]] - questions that pop up in my head, and their answers (if i find them)
+- [[[./talks][talks]]]
+
+** *everything else*
+
+- [[[./organizations][organizations]]] - organizations i've been a part of
+- [[[./transit][transit]]] - transit systems i've ridden on (i <3 public transit)
+
+#+HTML: </div></div>

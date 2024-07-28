@@ -1,0 +1,155 @@
+h2 {
+    font-size: 27px;
+    margin: 0;
+    
+}
+
+.blocks {
+	max-width: 1400px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right:60px;
+	padding-left:60px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+}
+
+.blocks img {
+	display:inline-block;
+	position: relative;
+	max-width: 370px;
+	overflow: hidden;
+	max-height: 320px;
+	margin: 15px;
+    border-radius: 5px;
+	z-index: 1;
+    border-radius: 5px;
+}
+
+.blog {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1000px;
+}
+
+.comment {
+    font-style: italic;
+    max-width: 1000px; 
+    color: #707070;
+    margin: 0; 
+    margin-right: auto; 
+    margin-left:auto; 
+    font-size: 20px;
+    text-align: center;
+}
+
+.contentBlock {
+    text-align: left;
+    max-width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.contentBlock h2 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.contentBlock h3 {
+    margin: 5px 0px;
+}
+
+.contentBlock p {
+    width: auto;
+    margin: 5px 0px;
+}
+
+.contentBlock .divider {
+    margin-top: 60px;
+}
+
+.footer li a {
+    color: #aaaaaa;
+}
+
+.footer li a::after, .footer li a::before {
+    color: #888888;
+}
+
+.hint {
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    color: #9999ff;
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.intro {
+    max-width: 900px;
+    width: 70%;
+    margin-right: auto; 
+    margin-left: auto; 
+    text-align: justify; 
+    margin-top: 20px;
+}
+
+.logo {
+    display: block;
+    max-height: 280px;
+    max-width: 100px;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-right: 3%;
+    width: auto;
+    height: 100%;
+}
+
+.main {
+    max-width: 1400px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 80px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.outline-2 {
+    margin: 30px 0px;
+}
+
+.publinks {
+    color: #bbbbbb;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.publinks a {
+    color: inherit;
+}
+
+.profile {
+    border-radius: 3px;
+    max-width: 300px;
+}
+
+.subtitle {
+    font-size: 18px;
+    margin: 0px;
+    color: #9999ff;
+}
+
+.title {
+    font-size: 35px;
+    margin: 10px;
+    color: white;
+}
