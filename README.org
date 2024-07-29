@@ -1,3 +1,2 @@
 * Website
-Source code for my personal website lau-mendez.com 
-I wrote everything on the website myself.
+Source code for my personal website lmendezayl.github.io

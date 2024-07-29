@@ -20,8 +20,8 @@
 <script src='../assets/js/vim.js'></script>")
 
 (defvar brain-html-head
-"<link rel='stylesheet' type='text/css' href='/~abellon/assets/css/common.css'>
-<link rel='stylesheet' type='text/css' href='/~abellon/assets/css/brain.css'>
+"<link rel='stylesheet' type='text/css' href='../assets/css/common.css'>
+<link rel='stylesheet' type='text/css' href='../assets/css/brain.css'>
 <link rel='icon' type='image/png' href='../images/art/personal_logo.png'>
 <meta name='viewport' content='width=device-width, initial-scale=.5'>
 <meta charset='utf-8'/>
@@ -59,11 +59,11 @@
         <span class='footer-container'>
             <span>
                 <li><a target='_parent' href='./cv.pdf'>cv</a></li>
-                <li><a target='_parent' href='https://github.com/alex-bellon/'>github</a></li>
+                <li><a target='_parent' href='https://github.com/lmendezayl/'>github</a></li>
             </span>
             <span>
-                <li><a href='https://lau-mendez.com'>home</a></li>
-                <li><a target='_parent' href='https://github.com/lmendezayl/lau-mendez.com'>website source</a></li>
+                <li><a href='https://lmendezayl.github.io'>home</a></li>
+                <li><a target='_parent' href='https://github.com/lmendezayl/lmendezayl.github.io'>website source</a></li>
             </span>
         </span>
     </ul>
